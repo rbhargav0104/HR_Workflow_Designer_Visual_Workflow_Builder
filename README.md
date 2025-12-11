@@ -1,6 +1,6 @@
 
 
-# 🚀 **HR Workflow Designer — Visual Workflow Builder (React + React Flow + Zustand)**
+#  **HR Workflow Designer — Visual Workflow Builder (React + React Flow + Zustand)**
 
 A fully interactive HR workflow designer that allows admins to **drag, drop, configure, simulate, and test HR processes** such as onboarding, approvals, document verification, automation steps, and more.
 
@@ -16,7 +16,7 @@ Built using **React**, **TypeScript**, **React Flow**, and **Zustand**, this pro
 
 ---
 
-# 📸 Preview (Screenshots Placeholder)
+# Preview (Screenshots Placeholder)
 
 > Replace below with real screenshots once the app is deployed
 
@@ -30,15 +30,15 @@ Built using **React**, **TypeScript**, **React Flow**, and **Zustand**, this pro
 
 ---
 
-# ✨ **Features**
+#  **Features**
 
-### 🧩 1. Drag & Drop Node Creation
+###  1. Drag & Drop Node Creation
 
 * Start, Task, Approval, Automated, and End nodes
 * Nodes placed exactly where user clicks
 * Snapping grid for precision
 
-### 🎨 2. Custom Node Components
+###  2. Custom Node Components
 
 Each node has its own UI & color theme:
 
@@ -48,7 +48,7 @@ Each node has its own UI & color theme:
 * 🟣 Automated Node
 * ⚫ End Node
 
-### 🔧 3. Dynamic Node Configuration Panel
+### � 3. Dynamic Node Configuration Panel
 
 Based on selected node type, shows appropriate fields:
 
@@ -63,15 +63,15 @@ Simulates:
 * Fetching automation actions
 * Executing workflow and showing step-by-step results
 
-### 🧪 5. Workflow Simulation Engine
+###  5. Workflow Simulation Engine
 
 Simulates workflow top-to-bottom, ordered by Y-position.
 
-### 🗺️ 6. MiniMap, Zoom, Pan, and Controls
+###  6. MiniMap, Zoom, Pan, and Controls
 
 Fully interactive editor experience.
 
-### 🎯 7. Edge Features
+###  7. Edge Features
 
 * Smooth curved edges
 * Arrow markers
@@ -85,7 +85,7 @@ Fully interactive editor experience.
 
 ---
 
-# 🏗️ **Project Architecture**
+#  **Project Architecture**
 
 ```
 src/
@@ -113,7 +113,7 @@ src/
 
 ---
 
-# 🛠️ **Tech Stack**
+#  **Tech Stack**
 
 | Layer            | Technology                         |
 | ---------------- | ---------------------------------- |
@@ -126,7 +126,7 @@ src/
 
 ---
 
-# 🔥 **How to Run Locally**
+#  **How to Run Locally**
 
 Clone the repo:
 
@@ -155,7 +155,7 @@ http://localhost:5173
 
 ---
 
-# 🧪 **How to Use**
+#  **How to Use**
 
 ### 1. Open the Sidebar
 
@@ -179,7 +179,7 @@ Open simulation panel → press "Run Simulation".
 
 ---
 
-# 🧩 **What’s Implemented**
+#  **What’s Implemented**
 
 ✔ Dynamic nodes
 ✔ Config panel
@@ -194,7 +194,7 @@ Open simulation panel → press "Run Simulation".
 
 ---
 
-# 🚀 **What Can Be Added (Future Enhancements)**
+#  **What Can Be Added (Future Enhancements)**
 
 * Export/Import Workflow JSON
 * Undo/Redo
@@ -209,7 +209,7 @@ These can all be added if needed.
 
 ---
 
-# 🌐 **GitHub Push Commands**
+#  **GitHub Push Commands**
 
 If you downloaded ZIP:
 
@@ -226,7 +226,7 @@ If CodeSandbox exported directly → repo already exists.
 
 ---
 
-# 📝 **Commit Message Template**
+#  **Commit Message Template**
 
 Use this for structured commits:
 
