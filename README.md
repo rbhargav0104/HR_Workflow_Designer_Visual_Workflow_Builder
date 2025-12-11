@@ -16,17 +16,9 @@ Built using **React**, **TypeScript**, **React Flow**, and **Zustand**, this pro
 
 ---
 
-# Preview (Screenshots Placeholder)
+# Preview 
 
-> Replace below with real screenshots once the app is deployed
-
-```
-/screenshots
-  ├── canvas.png
-  ├── nodes.png
-  ├── config-panel.png
-  └── simulation.png
-```
+<img width="1422" height="697" alt="image" src="https://github.com/user-attachments/assets/fe252d13-d61d-40c6-b2a6-abd046bb08f6" />
 
 ---
 
