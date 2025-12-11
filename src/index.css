@@ -1,0 +1,8 @@
+.workflow-node {
+  transition: box-shadow 0.2s, border 0.2s;
+}
+
+.react-flow__node.selected .workflow-node {
+  box-shadow: 0 0 0 3px #3b82f6 !important;
+  border-radius: 10px;
+}
